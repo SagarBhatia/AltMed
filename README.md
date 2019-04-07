@@ -1,2 +1,2 @@
-# MedsOn
-Medcine Delivery Application
+# AltMed
+Alternative Medicine App
